@@ -230,7 +230,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     &lt;p&gt;
-        1.	三千多年前發明算盤
+        1.	三千多年前發明算盤。
         &lt;p&gt;
         &lt;p&gt;
 2.	三百年前發明加法器
